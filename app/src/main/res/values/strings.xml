@@ -16,4 +16,8 @@
     <string name="name_zhilal">Cristiano Rojali</string>
     <string name="phone_zhilal">085436874188</string>
     <string name="address_zhilal">Depok, Sleman</string>
+
+    <string name="name_alfian">Ahmad Zidane</string>
+    <string name="phone_alfian">085436870000</string>
+    <string name="address_alfian">Gamping, Sleman</string>
 </resources>
