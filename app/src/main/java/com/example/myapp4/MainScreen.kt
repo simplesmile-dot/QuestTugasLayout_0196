@@ -89,5 +89,10 @@ fun MainScreen() {
             fontSize = spResource(R.dimen.text_size_footer),
             modifier = Modifier.padding(bottom = dimensionResource(R.dimen.footer_padding))
         )
+        Column(
+            verticalArrangement = Arrangement.spacedBy(dimensionResource(R.dimen.card_spacing))
+        ) {
+            students.forEach { StudentCard(student = it) }
+        }
     }
 }
