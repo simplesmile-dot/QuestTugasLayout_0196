@@ -8,4 +8,8 @@
 
     <string name="name_bambang">Alif Susanto</string>
     <string name="address_bambang">Turi, Sleman</string>
+
+    <string name="name_gibran">Gibran Rakabum</string>
+    <string name="phone_gibran">085436872000</string>
+    <string name="address_gibran">Kasihan, Bantul</string>
 </resources>
