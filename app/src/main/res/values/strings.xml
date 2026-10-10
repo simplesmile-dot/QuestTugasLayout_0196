@@ -5,4 +5,7 @@
     <string name="subtitle">Universitas Muhammadiyah Yogyakarta</string>
     <string name="copyright">Copyright, 2026</string>
     <string name="logo_description">Logo Universitas Muhammadiyah Yogyakarta</string>
+
+    <string name="name_bambang">Alif Susanto</string>
+    <string name="address_bambang">Turi, Sleman</string>
 </resources>
